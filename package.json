@@ -13,4 +13,11 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
+
+  {
+  "scripts": {},
+  "homepage": "https://your-github-username.github.io/repository-name",
+  "devDependencies": {},
+  "dependencies": {}
+  }
 }
